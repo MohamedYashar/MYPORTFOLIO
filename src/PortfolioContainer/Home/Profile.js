@@ -70,11 +70,11 @@ export default function Profile() {
                                                {/* Resume Link */}
                         <a  href='https://drive.google.com/file/d/1j4a6Rv0OH2WCuhOFBTcKYtnuYgTkN6zr/view?usp=drive_link' target="_blank" rel="noopener noreferrer"
                         download= " Mohamed_Yashar_cv"  > 
-                        <Button  size="large" color="inherit" aria-label="Get Resume" variant="contained">  <InsertDriveFileIcon />   Get Resume</Button>
+                        <Button  size="large"  aria-label="Get Resume" variant="contained">  <InsertDriveFileIcon />   Get Resume</Button>
                         
                         </a>
                         <a  href='https://www.linkedin.com/in/mohamed-yashar-2a6350125/' target="_blank" rel="noopener noreferrer" > 
-                        <Button  size="large" color="inherit" aria-label="Home" variant="contained" >  <LinkedInIcon />  LinkedIn</Button>
+                        <Button  size="large"  aria-label="Home" variant="contained" >  <LinkedInIcon />  LinkedIn</Button>
                         </a>
                     </div>
                    
