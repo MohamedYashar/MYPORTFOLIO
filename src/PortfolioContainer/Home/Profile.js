@@ -68,7 +68,7 @@ export default function Profile() {
                     <div className='profile-options' >
                     
                                                {/* Resume Link */}
-                        <a  href='https://drive.google.com/file/d/1ha1Ajgf0F3CpWK6ivOKB0_DWZzdFIEOZ/view' target="_blank" rel="noopener noreferrer"
+                        <a  href='https://drive.google.com/file/d/1UbKQaDcjX93FYy98IXsvPkiG2JVrtx8m/view?usp=sharing' target="_blank" rel="noopener noreferrer"
                         download= " Mohamed_Yashar_cv"  > 
                         <Button  size="large"  aria-label="Get Resume" variant="contained">  <InsertDriveFileIcon />   Get Resume</Button>
                         
